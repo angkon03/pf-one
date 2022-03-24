@@ -68,14 +68,14 @@ html,body {
 }
 .mobile-menu{
   background-color: white;
-    position: absolute;
-    width: 81%;
-    top: 101%;
-    left: 50%;
-    transform: translateX(-50%);
-    border-radius: 0 0 10px 10px;
-    box-shadow: 0 5px 5px silver;
-    display: none;
+  position: absolute;
+  width: 81%;
+  top: 101%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 5px 5px silver;
+  display: none;
 }
 .mobile-menu a{
   text-decoration: none;
